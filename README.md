@@ -2,8 +2,8 @@
 Ironhack Data Bootcamp Tableau Mini-Project 
 
 # Project Goal:
-- Find a dataset \
-- Explore the data using Tableau \
+- Find a dataset
+- Explore the data using Tableau
 - Put together a Story for presentation showing the insights from the data
 
 # Link of the Viz:
