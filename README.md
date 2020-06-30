@@ -15,5 +15,7 @@ https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 # Sources:
 Python: https://www.python.org/ \
+Pandas: https://pandas.pydata.org/ \
+NumPy: https://numpy.org/ \
 Jupyter Notebook: https://jupyter.org/ \
 Tableau: https://www.tableau.com/
